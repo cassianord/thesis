@@ -1,3 +1,3 @@
 # thesis
 
-Data and codes used in my thesis
+Data used in my thesis
